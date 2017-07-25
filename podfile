@@ -1,0 +1,7 @@
+platform :ios,'8.0';
+target 'DemoSocket' do
+use_frameworks!
+pod 'CocoaAsyncSocket'
+pod 'SocketRocket'
+pod 'MQTTKit'
+end

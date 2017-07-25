@@ -1,0 +1,18 @@
+PODS:
+  - CocoaAsyncSocket (7.6.1)
+  - MQTTKit (0.1.0)
+  - SocketRocket (0.5.1)
+
+DEPENDENCIES:
+  - CocoaAsyncSocket
+  - MQTTKit
+  - SocketRocket
+
+SPEC CHECKSUMS:
+  CocoaAsyncSocket: 7eadd3f59e1a6c84e2aefc93e9ff7b55156fe174
+  MQTTKit: a4e6b8aa92db1aeae917d2b773fd72a7749937c4
+  SocketRocket: d57c7159b83c3c6655745cd15302aa24b6bae531
+
+PODFILE CHECKSUM: f063a7a9544005dcedfeff564e85e2c617878134
+
+COCOAPODS: 1.2.1
